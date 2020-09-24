@@ -1,7 +1,7 @@
 const data = [
   {
     id: 1,
-    imagePath: "/dist/images/img-road66.jpg",
+    imagePath: "dist/images/img-road66.jpg",
     description: "Roadtrip moto sur la route 66",
     done: false,
     link: "https://www.westeurobikes.com/route-66-liberte/",
@@ -12,7 +12,7 @@ const data = [
   },
   {
     id: 2,
-    imagePath: "/dist/images/img-got.jpg",
+    imagePath: "dist/images/img-got.jpg",
     description: "Visiter les lieux de tournages de Got",
     done: false,
     link: "https://www.euskoguide.com/fr/lieux-pays-basque/espagne/san-juan-de-gaztelugatxe/",
@@ -23,7 +23,7 @@ const data = [
   },
   {
     id: 3,
-    imagePath: "/dist/images/img-europapark.jpg",
+    imagePath: "dist/images/img-europapark.jpg",
     description: "Aller à Europa-Park",
     done: true,
     link: "https://www.europapark.de/fr",
